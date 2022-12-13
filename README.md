@@ -31,6 +31,9 @@
 - 🔭 I like to scroll on the web as well as racking my brains looking for new vibrant projects to develop. 
   
   <div id="name1" align="left">
+    
+---
+    
  **Languages:**
     </div>
 </div>
@@ -40,6 +43,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
     
 </div>
+
 ---
 
 ### 🖥️ My Statistics :
