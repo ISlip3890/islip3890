@@ -18,7 +18,7 @@
 </div>
 
 <div id="name" align="center">
- <h3>"Respect and trust. Both elements have to be there. And it has to be mutual. You can have respect for someone, but if you don't have trust, the friendship will crumble." ― Stieg Larsson</h3>
+ <h3>"I'm not concerned with you liking or disliking me... All I ask is that you respect me as a human being. - Jackie Robinson</h3>
  </div>
   
 ---
