@@ -50,3 +50,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ISlip3890&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISlip3890&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ad337d16-5e7e-4a74-8270-e3e981e055ac/412f371f-9cbf-44ae-a769-d08ee29d126d.png" /></a>
